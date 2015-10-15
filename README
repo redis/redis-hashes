@@ -48,3 +48,4 @@ hash redis-3.0.3.tar.gz sha1 0e2d7707327986ae652df717059354b358b83358 http://dow
 hash redis-3.0.4.tar.gz sha1 cccc58b2b8643930840870f17280fcae57ed7675 http://download.redis.io/releases/redis-3.0.4.tar.gz
 hash redis-2.8.22.tar.gz sha1 78a70b32cdd3a4ccc58880d1821fb828d091bb36 http://download.redis.io/releases/redis-2.8.22.tar.gz
 hash redis-2.8.23.tar.gz sha1 828fc5d4011e6141fabb2ad6ebc193e8f0d08cfa http://download.redis.io/releases/redis-2.8.23.tar.gz
+hash redis-3.0.5.tar.gz sha1 ad3ee178c42bfcfd310c72bbddffbbe35db9b4a6 http://download.redis.io/releases/redis-3.0.5.tar.gz
