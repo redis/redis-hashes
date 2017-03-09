@@ -1,6 +1,7 @@
 # Redis hashes file.
 #
-# This file contains SHA1 sums of official tarballs released by the Redis project.
+# This file contains SHA1 or SHA256 digests of official tarballs released by
+# the Redis project.
 # You can use the file in order to verify that the download file is the original
 # one created by the Redis team, and not a modified or corrupted file.
 #
@@ -11,7 +12,9 @@
 #
 # hash <filename> <algo> <digest> <url>
 #
-# Filename is the tarball name. Algo is the algorithm used, usually "sha1".
+# Filename is the tarball name. Algo is the algorithm used, it is "sha1" up
+# to a certain release, "sha256" for the following releases.
+
 # Digest is the output of the hash function, and URL the download URL for the
 # specified file.
 
