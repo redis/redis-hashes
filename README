@@ -90,3 +90,4 @@ hash redis-5.0.3.tar.gz sha256 e290b4ddf817b26254a74d5d564095b11f9cd20d8f165459e
 hash redis-4.0.13.tar.gz sha256 17d955227966dcd68590be6139e5fe7f2d19fc4fb7334248a904ea9cdd30c1d4 http://download.redis.io/releases/redis-4.0.13.tar.gz
 hash redis-5.0.4.tar.gz sha256 3ce9ceff5a23f60913e1573f6dfcd4aa53b42d4a2789e28fa53ec2bd28c987dd http://download.redis.io/releases/redis-5.0.4.tar.gz
 hash redis-4.0.14.tar.gz sha256 1e1e18420a86cfb285933123b04a82e1ebda20bfb0a289472745a087587e93a7 http://download.redis.io/releases/redis-4.0.14.tar.gz
+hash redis-3.2.13.tar.gz sha256 862979c9853fdb1d275d9eb9077f34621596fec1843e3e7f2e2f09ce09a387ba http://download.redis.io/releases/redis-3.2.13.tar.gz
