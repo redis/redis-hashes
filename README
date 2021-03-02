@@ -121,3 +121,4 @@ hash redis-6.2.0.tar.gz sha256 67d624c25d962bd68aff8812a135df85bad07556b8825f3bc
 hash redis-6.0.11.tar.gz sha256 c927f2d110e88fda308526a1809a4d7dfcd004319f0de66d40a58a42aec23c5f http://download.redis.io/releases/redis-6.0.11.tar.gz
 hash redis-5.0.12.tar.gz sha256 7040eba5910f7c3d38f05ea5a1d88b480488215bdbd2e10ec70d18380108e31e http://download.redis.io/releases/redis-5.0.12.tar.gz
 hash redis-6.0.12.tar.gz sha256 f16ad973d19f80f121e53794d5eb48a997e2c6a85b5be41bb3b66750cc17bf6b http://download.redis.io/releases/redis-6.0.12.tar.gz
+hash redis-6.2.1.tar.gz sha256 cd222505012cce20b25682fca931ec93bd21ae92cb4abfe742cf7b76aa907520 http://download.redis.io/releases/redis-6.2.1.tar.gz
