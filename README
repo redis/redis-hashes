@@ -135,3 +135,4 @@ hash redis-6.0.16.tar.gz sha256 3639bbf29aca1a1670de1ab2ce224d6511c63969e7e590d3
 hash redis-6.2.6.tar.gz sha256 5b2b8b7a50111ef395bf1c1d5be11e6e167ac018125055daa8b5c2317ae131ab http://download.redis.io/releases/redis-6.2.6.tar.gz
 hash redis-7.0-rc1.tar.gz sha256 9bd57d3c9ebba9dbbd6cd14b0c263ce151b0044fb6620b556449c2d82e06ef3d http://download.redis.io/releases/redis-7.0-rc1.tar.gz
 hash redis-7.0-rc2.tar.gz sha256 ee41f5a9f459b44baefbc021cf5096440f346f3c5fc8a1979a877a2f10603ca3 http://download.redis.io/releases/redis-7.0-rc2.tar.gz
+hash redis-7.0-rc3.tar.gz sha256 66b2ecc2e4b53c62940589434ea8af3a85546df131001680ed294028cd84ecdc http://download.redis.io/releases/redis-7.0-rc3.tar.gz
