@@ -213,3 +213,4 @@ hash redis-8.4.0.tar.gz sha256 ca909aa15252f2ecb3a048cd086469827d636bf8334f50bb9
 hash redis-8.6-rc1.tar.gz sha256 1f34edd45bdba8b7f9349df3180ea2b0fe475e57326d9b7c267e3e8619da3a17 http://download.redis.io/releases/redis-8.6-rc1.tar.gz
 hash redis-8.2.4.tar.gz sha256 954943d4873f3add5e3b694832b52753e9f55b810a917d0148675f27480ac8c2 http://download.redis.io/releases/redis-8.2.4.tar.gz
 hash redis-8.4.1.tar.gz sha256 859fe81b881f741843006eacf3e43d36b01af7ce3eabd5d7d2cb568533502162 http://download.redis.io/releases/redis-8.4.1.tar.gz
+hash redis-8.6.0.tar.gz sha256 d7e5f65f0bb0b4753d0cf98a60f5409a7c9b430ff8ac3397d336260cf64e5a6e http://download.redis.io/releases/redis-8.6.0.tar.gz
